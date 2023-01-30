@@ -1,0 +1,9 @@
+﻿{
+  "Version": 3,
+  "MasterUrl": "https://dbo-rmt/",
+  "GatewayUrl": "http://bi-analytics.dbo.id/",
+  "CertificateThumbprint": "DDBE4AD0E7EACA8082020D4AF5A9CA27EA03EEC1",
+  "EnvironmentId": 1,
+  "EnvironmentName": "Tableau Production",
+  "MessageQueueBootstrapToken": "B35eh7zeDxbWLrM9O7qF2N1J0DZlum4YWjGioXV7jzw="
+}
